@@ -1,0 +1,30 @@
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\bin\Debug\DiscordWalmart.exe.config
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\bin\Debug\DiscordWalmart.exe
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\bin\Debug\DiscordWalmart.pdb
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.csprojAssemblyReference.cache
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.Properties.Resources.resources
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.csproj.GenerateResource.cache
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.csproj.CoreCompileInputs.cache
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.exe
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.pdb
+D:\Informatica\C#\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.FormTest.resources
+D:\C Projects\DiscordCopy-main\DiscordWalmart\DiscordWalmart\bin\Debug\DiscordWalmart.exe.config
+D:\C Projects\DiscordCopy-main\DiscordWalmart\DiscordWalmart\bin\Debug\DiscordWalmart.exe
+D:\C Projects\DiscordCopy-main\DiscordWalmart\DiscordWalmart\bin\Debug\DiscordWalmart.pdb
+D:\C Projects\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.csprojAssemblyReference.cache
+D:\C Projects\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.FormTest.resources
+D:\C Projects\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.Properties.Resources.resources
+D:\C Projects\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.csproj.GenerateResource.cache
+D:\C Projects\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.csproj.CoreCompileInputs.cache
+D:\C Projects\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.exe
+D:\C Projects\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.pdb
+D:\Programming\C#\DiscordCopy-main\DiscordWalmart\DiscordWalmart\bin\Debug\DiscordWalmart.exe.config
+D:\Programming\C#\DiscordCopy-main\DiscordWalmart\DiscordWalmart\bin\Debug\DiscordWalmart.exe
+D:\Programming\C#\DiscordCopy-main\DiscordWalmart\DiscordWalmart\bin\Debug\DiscordWalmart.pdb
+D:\Programming\C#\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.csprojAssemblyReference.cache
+D:\Programming\C#\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.FormTest.resources
+D:\Programming\C#\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.Properties.Resources.resources
+D:\Programming\C#\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.csproj.GenerateResource.cache
+D:\Programming\C#\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.csproj.CoreCompileInputs.cache
+D:\Programming\C#\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.exe
+D:\Programming\C#\DiscordCopy-main\DiscordWalmart\DiscordWalmart\obj\Debug\DiscordWalmart.pdb
